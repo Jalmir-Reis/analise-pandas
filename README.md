@@ -32,7 +32,7 @@ Antes de iniciar o código, foi preciso entender o problema, e traçar uma rota 
   - Podemos criar bonus nos primeiros meses como incentivo para manter os clientes.
 
 - Quanto MENOS serviços o cliente tem, MAIORES as chances de cancelamento.
-  -Podemos criar combos de serviços, por valores similares ao serviço principal, aumentando a chance de reter os clientes.
+  - Podemos criar combos de serviços, por valores similares ao serviço principal, aumentando a chance de reter os clientes.
 
 - Há um problema claro no serviço de FIBRA.
   - É preciso identificar porque a fibra da empresa tem as maiores taxas de cancelamento, para poder agir sobre o problema.
